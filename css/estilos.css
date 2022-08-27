@@ -22,7 +22,8 @@ body {
   font-size: 20px;
 }
 
-#cabecera {
+#cabecera,
+.foot {
   background-color: #33a;
   color: white;
   margin: 0;
@@ -31,7 +32,8 @@ body {
   padding: 0.5em;
 }
 
-#cabecera #tagline {
+#cabecera #tagline,
+.foot span {
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 1em;
