@@ -10,6 +10,10 @@ body {
 #post {
   padding: 1em;
 }
+#post p img {
+  width: 100%;
+}
+
 #container {
   width: 70%;
   padding: 0;
@@ -44,9 +48,8 @@ body {
   font-size: 1em;
 }
 
-#footer{
+#footer {
   background-color: #333;
   color: #ddd;
   text-align: center;
-  
 }
